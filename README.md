@@ -16,6 +16,8 @@
 
 * 코드 삽입
 
+<pre><code>
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -133,4 +135,4 @@ df2.to_csv("newData.csv")
 drawKorea('발생건수', df2, '광역시도', '행정구역','Reds')
 drawKorea('인구대비', df2, '광역시도', '행정구역','OrRd')
 
-
+</code></pre>
