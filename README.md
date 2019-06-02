@@ -14,7 +14,7 @@
 2. [데이터보기](https://github.com/ssy58/python_final_term/blob/master/data_draw_korea.csv)
 
 ## 소스
-* [링크로 소스 내용 보기](https://github.com/cybermin/python2019/blob/master/tes.py) 
+* [링크로 소스 내용 보기](https://github.com/ssy58/python_final_term/blob/master/main.py) 
 
 * 코드 삽입
 
