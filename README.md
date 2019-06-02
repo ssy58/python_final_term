@@ -9,9 +9,9 @@
  전국 각 시군구별 교통사고 데이터를 받아 이를 matplotlib를 사용하여 분석
 
 ## 사용한 공공데이터 
-1. [데이터보기](https://github.com/ssy58/python_final_term/blob/master/data.csv)
+1. [데이터보기](https://github.com/ssy58/python_final_term/blob/master/data.csv) <br>
 [출처](https://www.data.go.kr/dataset/3038489/fileData.do)
-2. 
+2. [데이터보기](https://github.com/ssy58/python_final_term/blob/master/data_draw_korea.csv)
 
 ## 소스
 * [링크로 소스 내용 보기](https://github.com/cybermin/python2019/blob/master/tes.py) 
