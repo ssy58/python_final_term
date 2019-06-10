@@ -14,9 +14,20 @@
 2. [데이터보기](https://github.com/ssy58/python_final_term/blob/master/data_draw_korea.csv)
 
 ## 프로그램 구성도
+![program_diagram](./img/ProgramDiagram.JPG)
 
 ## 프로그램 시연 동영상
 [동영상 보기 ](https://youtu.be/C-IWiDyprUQ)
+
+## 프로그램 실행 결과
+1. matplotlib 사용 우리나라 지도 생성<br>
+![korea_map](./img/KoreaMap.JPG)
+
+2. 교통사고 발생 건수별 지도 생성<br>
+![map by accident](./img/Map_Accident.JPG)
+
+3. 인구대비 교통사고 지도 생성<br>
+![map_by_population](./img/Map_Population.JPG)
 
 ## 소스
 * [링크로 소스 내용 보기](https://github.com/ssy58/python_final_term/blob/master/main.py) 
@@ -124,8 +135,6 @@ def drawKorea(targetData, blockedMap, d1, d2, cmapname):
 
     plt.tight_layout()
     plt.show()
-
-
 
 
 font_name = font_manager.FontProperties(fname="c:/Windows/Fonts/malgun.ttf").get_name()
