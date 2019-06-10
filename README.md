@@ -10,8 +10,13 @@
 
 ## 사용한 공공데이터 
 1. [데이터보기](https://github.com/ssy58/python_final_term/blob/master/data.csv) <br>
-[출처](https://www.data.go.kr/dataset/3038489/fileData.do)
+[도로교통공단교통사고통계](https://www.data.go.kr/dataset/3038489/fileData.do)
 2. [데이터보기](https://github.com/ssy58/python_final_term/blob/master/data_draw_korea.csv)
+
+## 프로그램 구성도
+
+## 프로그램 시연 동영상
+[동영상 보기 ](https://youtu.be/C-IWiDyprUQ)
 
 ## 소스
 * [링크로 소스 내용 보기](https://github.com/ssy58/python_final_term/blob/master/main.py) 
